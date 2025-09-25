@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Windows OS file
+thumbs.db
+
+# macOS file
+.DS_Store
+
 # C extensions
 *.so
 
